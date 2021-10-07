@@ -1,5 +1,5 @@
-lower = int(input("Enter lower range: "))  
-upper = int(input("Enter upper range: "))  
+lower = 100 
+upper = 500
   
 for num in range(lower,upper + 1):  
    sum = 0  
